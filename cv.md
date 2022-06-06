@@ -2,4 +2,4 @@
 
 ## Education
 
-## Expirience
+## Experience
